@@ -1,4 +1,6 @@
 #ezhil
+h1,m1=map(int,input().split())
+h2,m2=map(int,input().split())
 if h1>h2:
 	if m1>m2:
 		hrs=h1-h2
@@ -18,4 +20,3 @@ elif h1<h2:
 	else:
 		hrs=h2-h1
 		mins=m1-m2
-		print(hrs,mins)
