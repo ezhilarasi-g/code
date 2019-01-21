@@ -5,5 +5,5 @@ for i in n:
 	if i in num:
 		d="yes"
 else:
-	d="no"
+	d="No"
 print(d)
