@@ -20,3 +20,8 @@ elif h1<h2:
 	else:
 		hrs=h2-h1
 		mins=m1-m2
+elif h1==h2:
+	if m1==m2:
+		hrs=h1-h2
+		mins=m1-m2
+		print(hrs,mins)
