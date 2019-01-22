@@ -1,4 +1,4 @@
-#ezhil
-s=(input().split("."))
-sen=len(s)
-print(sen)
+#ezhil12
+sen=(input().split("."))
+s=len(sen)
+print(s)
