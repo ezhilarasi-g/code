@@ -1,4 +1,4 @@
 #ezhil
 n=int(input())
-l=list(map(int,input().split()))
-print(min(l),max(l))
+lis=list(map(int,input().split()))
+print(min(lis),max(lis))
