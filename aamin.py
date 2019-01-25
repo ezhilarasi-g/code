@@ -1,3 +1,3 @@
-#ezhil
-l=list(map(int,input().split()))
-print(min(l))
+#ezhil12
+lis=list(map(int,input().split()))
+print(min(lis))
