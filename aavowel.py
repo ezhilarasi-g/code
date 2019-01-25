@@ -1,4 +1,4 @@
-3ezhil
+#ezhil
 n=input()
 c=0
 lis=['A','E','I','O','U','a','e','i','o','u']
