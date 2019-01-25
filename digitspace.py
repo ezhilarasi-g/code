@@ -1,4 +1,4 @@
-3ezhil
+#ezhil
 n=input()
 for i in n:
     if i.isdigit():
