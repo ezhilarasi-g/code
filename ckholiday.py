@@ -1,6 +1,6 @@
 #ezhil
 d=input()
-l=['saturday','sunday']
+l=['Saturday','Sunday']
 if d in l:
     print("yes")
 else:
