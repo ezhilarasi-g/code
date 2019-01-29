@@ -1,6 +1,6 @@
 #ezhil
 a=int(input())
-b=input()
+b=str(input())
 s=b[::-1]
 l=list(str(s))
 for i in l:
