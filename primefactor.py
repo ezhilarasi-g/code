@@ -1,6 +1,7 @@
 #ezhil
 n=int(input())
 i=1
+res=''
 while(i<=n):
     k=0
     if n%i==0:
@@ -10,5 +11,6 @@ while(i<=n):
                 k=k+1
             j=j+1
         if k==2:
-            print(i,end=" ")
+            res=res+str(i)+' '
+            print(res)
     i=i+1
