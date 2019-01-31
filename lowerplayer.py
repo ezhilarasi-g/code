@@ -5,6 +5,6 @@ for i in n:
     if i.isupper():
         s=s+i.lower()
     else:
-        s=s+i.lower()
+        s=s+i.upper()
 print(s)
         
