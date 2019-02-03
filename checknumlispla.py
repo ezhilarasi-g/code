@@ -2,6 +2,6 @@
 n,k=map(int,input().split())
 lis=list(map(int,input().split()))
 if k in lis:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
