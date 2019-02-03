@@ -4,6 +4,6 @@ for i in n:
     c=n.count('(')
     d=n.count(')')
 if c==d:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
