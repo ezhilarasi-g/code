@@ -1,6 +1,6 @@
-#ezhil
+#ezhil1205
 n=int(input())
-a=list(map(int,input().split()))
+a = [int(y) for y in input().split()]
 for i in range(0,n):
     if i<n-1:
         b=' '
@@ -12,3 +12,4 @@ for i in range(0,n):
     elif i%2!=0:
         if a[i]%2==0:
             print(a[i],end=b)
+
